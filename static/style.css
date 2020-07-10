@@ -29,22 +29,10 @@ font-style: italic;
 color: rgb(199, 128, 99);
 font-size: 18px;
 }
-ol {
+ol li:nth-child(odd) {
 font-family: monospace;
 font-size: 20px;
-}
-.cap {
-font-weight: bold;
-color: purple
-}
-.idade {
-font-style: italic;
-color: salmon;
-}
-.senso {
-font-style: oblique;
-font-size: 22px;
-color: seagreen;
+color: tomato;
 }
 #foto {
 float: left;
