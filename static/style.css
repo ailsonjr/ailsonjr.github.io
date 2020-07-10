@@ -5,6 +5,8 @@
     }
 body {
 background-color: rgb(177, 208, 238);
+margin: 35px;
+padding: 35px;
 } 
 h1 {
 font-family: 'Great Vibes', cursive;
