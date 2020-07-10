@@ -21,7 +21,7 @@ font-size: 30px;
 }
 #comentario{
 margin: 15px;
-margin-top: 30px;
+margin-top: 50px;
 font-size: 15px; 
 font-style: italic;
 }
@@ -54,4 +54,7 @@ background-color: rgb(7, 82, 156);
 }
 #about {
 clear: both;
+}
+.navegue, #blog, #about, #foto {
+    margin-bottom: 35px;
 }
