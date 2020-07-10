@@ -46,7 +46,9 @@ color: seagreen;
 }
 #foto {
 float: left;
-margin: 15px;   
+margin: 15px;  
+padding: 20px; 
+background-color: rgb(7, 82, 156);
 }
 #about {
 clear: both;
