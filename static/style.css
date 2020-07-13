@@ -19,6 +19,9 @@ font-family: 'Grenze Gotisch', cursive;
 color: slateblue;
 font-size: 30px;
 }
+h3 {
+    margin-left: 10px;
+}
 #comentario{
 margin: 15px;
 margin-top: 50px;
